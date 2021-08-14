@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = QuantumOpticsControlExtensions","category":"page"},{"location":"#QuantumOpticsControlExtensions","page":"Home","title":"QuantumOpticsControlExtensions","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for QuantumOpticsControlExtensions.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [QuantumOpticsControlExtensions]","category":"page"}]
+}
