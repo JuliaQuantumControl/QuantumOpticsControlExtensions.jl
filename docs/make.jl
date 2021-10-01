@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(QuantumOpticsControlExtensions, :DocTestSetup, :(using Quant
 makedocs(;
     modules=[QuantumOpticsControlExtensions],
     authors="Michael Goerz <mail@michaelgoerz.net> and contributors",
-    repo="https://github.com/QuantumControl-jl/QuantumOpticsControlExtensions.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/JuliaQuantumControl/QuantumOpticsControlExtensions.jl/blob/{commit}{path}#{line}",
     sitename="QuantumOpticsControlExtensions.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://QuantumControl-jl.github.io/QuantumOpticsControlExtensions.jl",
+        canonical="https://juliaquantumcontrol.github.io/QuantumOpticsControlExtensions.jl",
         assets=String[],
     ),
     pages=[
@@ -19,5 +19,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/QuantumControl-jl/QuantumOpticsControlExtensions.jl",
+    repo="github.com/JuliaQuantumControl/QuantumOpticsControlExtensions.jl",
 )

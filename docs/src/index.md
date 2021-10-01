@@ -4,7 +4,7 @@ CurrentModule = QuantumOpticsControlExtensions
 
 # QuantumOpticsControlExtensions
 
-Documentation for [QuantumOpticsControlExtensions](https://github.com/QuantumControl-jl/QuantumOpticsControlExtensions.jl).
+Documentation for [QuantumOpticsControlExtensions](https://github.com/JuliaQuantumControl/QuantumOpticsControlExtensions.jl).
 
 ```@index
 ```
